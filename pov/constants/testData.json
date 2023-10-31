@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nom": "  AAAA",
+    "prenom": "Imane",
+    "solde": "333",
+    "CA": "12312"
+  },
+  {
+    "id": 2,
+    "nom": "  bbb",
+    "prenom": "Ahmed",
+    "solde": "398",
+    "CA": "76575"
+  },
+  {
+    "id": 3,
+    "nom": "  AAAA",
+    "prenom": "anass",
+    "solde": "333",
+    "CA": "12312"
+  },
+  {
+    "id": 4,
+    "nom": "  AAAA",
+    "prenom": "hiba",
+    "solde": "333",
+    "CA": "12312"
+  },
+  {
+    "id": 5,
+    "nom": "  AAAA",
+    "prenom": "simo",
+    "solde": "333",
+    "CA": "12312"
+  },
+  {
+    "id": 6,
+    "nom": "  AAAA",
+    "prenom": "jdi",
+    "solde": "333",
+    "CA": "12312"
+  }
+]
